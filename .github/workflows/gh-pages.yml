@@ -9,11 +9,11 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - name: Checkout submodules
-        uses: textbook/git-checkout-submodule-action@master
+      - uses: actions/checkout@v2
         with:
-          remote: true
-      
+          submodules: 'recursive'
+      - run: git fetch --prune --unshallow
+        
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
