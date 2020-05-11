@@ -8,12 +8,22 @@
 (first time) get a local copy
 
     git clone https://github.com/purpleislandengineering/purpleislandengineering-website.git
+
     cd purpleislandengineering-website
+
+    git submodule add https://github.com/purpleislandengineering/hugo-serif-theme.git themes/hugo-serif-theme
 
 (subsequent times) get recent changes to the code
 
     cd purpleislandengineering-website
+   
     git pull https://github.com/purpleislandengineering/purpleislandengineering-website.git
+
+    git submodule update --init --recursive
+
+To change the color scheme:
+
+    themes/hugo-serif-theme/assets/scss/_variables.scss
 
 ### install hugo-extended
 
@@ -73,8 +83,10 @@ generate hugo default in that empty repo
 add submodule for [theme](https://github.com/JugglerX/hugo-serif-theme) to [subfolder](https://stackoverflow.com/a/9035930/2327328)
 
     cd purpleislandengineering-website 
-	git clone https://github.com/jugglerx/hugo-serif-theme.git themes/hugo-serif-theme
-	#git submodule add https://github.com/JugglerX/hugo-serif-theme.git themes/hugo-serif-theme
+	
+    #git clone https://github.com/jugglerx/hugo-serif-theme.git themes/hugo-serif-theme
+	
+    git submodule add https://github.com/purpleislandengineering/hugo-serif-theme.git themes/hugo-serif-theme
 
 add [example content](https://github.com/JugglerX/hugo-serif-theme#add-example-content)
 
