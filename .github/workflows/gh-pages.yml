@@ -9,11 +9,11 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout submodules
+        uses: srt32/git-actions@v0.0.3
         with:
-          submodules: true  # Fetch Hugo themes
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
+           args: git submodule update --init --recursive
+      
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
