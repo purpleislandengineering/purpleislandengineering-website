@@ -1,6 +1,8 @@
 
 # Website for Purple Island Engineering
 
+![github pages](https://github.com/purpleislandengineering/purpleislandengineering-website/workflows/github%20pages/badge.svg?branch=master)
+
 ## to get the most recent code
 
 (first time) get a local copy
@@ -56,6 +58,8 @@ building the website is done with this [github action](https://github.com/peacei
 
 commit to the master branch to trigger the build.
 
+The changes should be available on the website after a short (< 1 min) build: http://localhost:1313/purpleislandengineering-website
+
 ---
 
 ## one-time setup
@@ -78,3 +82,5 @@ add [example content](https://github.com/JugglerX/hugo-serif-theme#add-example-c
     cp -a themes/hugo-serif-theme/exampleSite/. .
 
 update `config.tom` with this [header text](https://github.com/JugglerX/hugo-serif-theme#update-configtoml)
+
+The page based on the git branch `gh-pages` will be available here: https://purpleislandengineering.github.io/purpleislandengineering-website/
