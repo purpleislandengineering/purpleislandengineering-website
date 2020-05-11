@@ -12,7 +12,7 @@ title = "Purple Island Engineering"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Purple Island Engineering"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
