@@ -5,6 +5,6 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Hugo Business Theme.
+# Remote Mechanical Engineering!
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## We all know the story of the internet pushing the nitros oxide button on the way we interact with the world and changing the technological landscape almost across the board. This brings us to today() where the world is going remote.
