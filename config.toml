@@ -11,7 +11,7 @@ title = "Purple Island Engineering"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
-    standard  = "images/logo.svg"
+    standard  = "images/LOGO1_PIE.jpg"
     alt = "Purple Island Engineering"
 
   [params.homepage_meta_tags]
