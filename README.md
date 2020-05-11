@@ -7,13 +7,13 @@
 
 (first time) get a local copy
 
-   git clone https://github.com/purpleislandengineering/purpleislandengineering-website.git
-   cd purpleislandengineering-website
+    git clone https://github.com/purpleislandengineering/purpleislandengineering-website.git
+    cd purpleislandengineering-website
 
 (subsequent times) get recent changes to the code
 
-   cd purpleislandengineering-website
-   git pull https://github.com/purpleislandengineering/purpleislandengineering-website.git
+    cd purpleislandengineering-website
+    git pull https://github.com/purpleislandengineering/purpleislandengineering-website.git
 
 ### install hugo-extended
 
@@ -26,7 +26,6 @@ Mac OSX (extended is default)
 Ubuntu (snap)
 
     snap install hugo --channel=extended
-
 
 Confirm your version is `hugo-extended`
 
