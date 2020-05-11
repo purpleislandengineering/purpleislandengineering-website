@@ -3,7 +3,7 @@
 
 clone empty repo (created in browser)
 
-    git clone git@github.com:philshem/purpleislandengineering-website.git
+    git clone git@github.com:purpleislandengineering/purpleislandengineering-website.git
 
 generate hugo default in that empty repo
 
@@ -25,13 +25,13 @@ update `config.tom` with this [header text](https://github.com/JugglerX/hugo-ser
 
 (first time) get a local copy
 
-   git clone https://github.com/philshem/purpleislandengineering-website.git
+   git clone https://github.com/purpleislandengineering/purpleislandengineering-website.git
    cd purpleislandengineering-website
 
 (subsequent times) get recent changes to the code
 
    cd purpleislandengineering-website
-   git pull https://github.com/philshem/purpleislandengineering-website.git
+   git pull https://github.com/purpleislandengineering/purpleislandengineering-website.git
 
 ## install hugo-extended
 
@@ -60,6 +60,7 @@ should include the text `extended` after the version number. For example:
 then to build the website
 	
 	cd purpleislandengeering-website
+
     hugo
 
 and to serve the website (default port is 1313)
@@ -67,3 +68,8 @@ and to serve the website (default port is 1313)
     hugo serve -D
 
 open a browser window to [localhost:1313](http://localhost:1313)
+
+
+# to deploy to the public web
+
+https://github.com/peaceiris/actions-hugo
