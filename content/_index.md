@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Remote Mechanical Engineering!
 
-## We all know the story of the internet pushing the nitros oxide button on the way we interact with the world and changing the technological landscape almost across the board. This brings us to today() where the world is going remote.
+## We all know the story of the internet pushing the nitros oxide button on the way we interact with the world and changing the technological landscape across the board. This brings us to today() where the world is going remote.
