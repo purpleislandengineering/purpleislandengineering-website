@@ -33,8 +33,7 @@ Confirm your version is `hugo-extended`
 
 should include the text `extended` after the version number. For example:
 
-    Hugo Static Site Generator v0.70.0/extended darwin/amd64 BuildDate: unknown
-
+    > Hugo Static Site Generator v0.70.0/extended darwin/amd64 BuildDate: unknown
 
 ## launch the local website
 
