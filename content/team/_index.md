@@ -1,10 +1,10 @@
 ---
 title: 'Team'
-intro_image: images/undraw_modern_professional_yt9h.svg
+intro_image: images/team/Header_teams.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+## We are just getting started, but we are here!

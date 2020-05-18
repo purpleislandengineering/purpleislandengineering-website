@@ -3799,7 +3799,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #8a07a5;
+    background-color: #6c13b5;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -3963,7 +3963,7 @@ table {
   border-spacing: 0; }
 
 a {
-  color: #8a07a5; }
+  color: #6c13b5; }
 
 img {
   max-width: 100%;
@@ -4017,7 +4017,7 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #8a07a5;
+  color: #6c13b5;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -4208,23 +4208,23 @@ ol {
         display: inline-block;
         font-weight: regular;
         text-decoration: none;
-        color: #8a07a5; }
+        color: #6c13b5; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
-        background: #8a07a5;
+        background: #6c13b5;
         border-radius: 3px;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #8a07a5;
+          background: #6c13b5;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #8a07a5;
+  background: #6c13b5;
   top: 0;
   left: 0;
   width: 100%;
@@ -4301,7 +4301,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #8a07a5; }
+    background: #6c13b5; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4316,7 +4316,7 @@ ol {
   line-height: 40px;
   padding: 0 14px;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
-  background: #8a07a5;
+  background: #6c13b5;
   border-radius: 4px;
   font-size: 15px;
   font-weight: 600;
@@ -4328,7 +4328,7 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #b309d6;
+    background-color: #8818e3;
     transform: translateY(-1px);
     box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
     text-decoration: none; }
@@ -4414,7 +4414,7 @@ ol {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #8a07a5;
+  color: #6c13b5;
   line-height: 1.4;
   font-weight: 400;
   letter-spacing: 1px; }
@@ -4527,13 +4527,13 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #8a07a5, #f88379); }
+  background-image: linear-gradient(to right, #6c13b5, #f88379); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #8a07a5, #f88379); }
+  background-image: linear-gradient(to bottom, #6c13b5, #f88379); }
 
 .strip-primary {
-  background-color: #8a07a5; }
+  background-color: #6c13b5; }
 
 .strip-secondary {
   background-color: #f88379; }

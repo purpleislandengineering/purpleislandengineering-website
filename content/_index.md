@@ -5,6 +5,9 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: false
 ---
 
-# Remote Mechanical Engineering!
+# Remote Mechanical Engineering
+## Steve Shemella - Designer, fixer, father
 
-## We all know the story of the internet pushing the nitros oxide button on the way we interact with the world and changing the technological landscape across the board. This brings us to today() where the world is going remote.
+
+
+### The world is now faced with immense pressure to survive and capitalize the sudden ingress of data and technology upon itself. Underway in the 21st century we are slaves to digital and need to work our way through not only managing the challenges but further understanding the potential.
